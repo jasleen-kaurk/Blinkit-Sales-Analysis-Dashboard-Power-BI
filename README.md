@@ -6,7 +6,7 @@ This project presents an interactive **Blinkit Sales Analysis Dashboard** built 
 
 The objective of this project is to analyze Blinkit's sales performance, customer purchasing patterns, product categories, outlet performance, and other key business metrics to generate meaningful insights and support data-driven decision-making.
 
-The original dataset was provided in **CSV format**. Data cleaning and transformation were performed using **Power Query within Power BI**, followed by data analysis, DAX calculations, and dashboard development.
+The original dataset was provided in **.xlsxformat**. Data cleaning and transformation were performed using **Power Query within Power BI**, followed by data analysis, DAX calculations, and dashboard development.
 
 ---
 
@@ -32,7 +32,7 @@ The main objectives of this project were:
 | **Power BI**    | Dashboard development & visualization |
 | **Power Query** | Data cleaning & transformation        |
 | **DAX**         | Measures and calculations             |
-| **CSV**         | Source dataset                        |
+| **xlsx**         | Source dataset                        |
 
 ---
 
@@ -113,7 +113,6 @@ Some of the major insights obtained from the analysis include:
 * Evaluated customer purchasing patterns.
 * Used KPIs to monitor overall business performance.
 
-> **Note:** Specific numerical insights can be added based on the final dashboard results.
 
 ---
 
@@ -123,7 +122,7 @@ Some of the major insights obtained from the analysis include:
 Blinkit-Sales-Analysis/
 │
 ├── Blinkit_Sales_Dashboard.pbix
-├── Blinkit_Sales_Data.csv
+├── Blinkit_Sales_Data.xlsx
 ├── Blinkit_Dashboard.png
 ├── README.md
 └── Documentation/
@@ -153,7 +152,7 @@ Screenshot of the final Power BI dashboard.
 ## 🚀 Project Workflow
 
 ```text
-CSV Dataset
+.xlsx Dataset
      ↓
 Power Query
      ↓
@@ -193,7 +192,7 @@ This project demonstrates practical experience in:
 
 ## 📌 Conclusion
 
-The Blinkit Sales Analysis project demonstrates how raw CSV data can be transformed into an interactive business intelligence dashboard using Power BI.
+The Blinkit Sales Analysis project demonstrates how raw.xlsx data can be transformed into an interactive business intelligence dashboard using Power BI.
 
 The project combines **data cleaning, transformation, analysis, DAX calculations, and visualization** to convert raw data into meaningful business insights.
 
