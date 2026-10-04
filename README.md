@@ -57,14 +57,14 @@ The following data preparation steps were performed using **Power Query in Power
 
 The dashboard focuses on important business metrics such as:
 
-* 💰 **Total Sales**
-* 🧾 **Number of Items Sold**
-* ⭐ **Average Rating**
-* 🏪 **Outlet Performance**
-* 📦 **Product Category Performance**
-* 📍 **Location/Outlet Analysis**
+* 💰 **Total Sales : $1.20M**
+* 🧾 **Number of Items Sold : 8,523**
+* ⭐ **Average Sales : $141**
+* 🏪 **Average Rating: 3.92**
+* 📍 **Highest displayed outlet-establishment sales: ~$205K in 2018 **
 
 ---
+
 
 ## 📊 Dashboard Analysis
 
