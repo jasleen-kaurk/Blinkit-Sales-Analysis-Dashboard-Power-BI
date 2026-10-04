@@ -61,7 +61,8 @@ The dashboard focuses on important business metrics such as:
 * 🧾 **Number of Items Sold : 8,523**
 * ⭐ **Average Sales : $141**
 * 🏪 **Average Rating: 3.92**
-* 📍 **Highest displayed outlet-establishment sales: ~$205K in 2018 **
+* 📍 **Highest displayed outlet-establishment sales: ~$205K in 2018**
+
 
 ---
 
